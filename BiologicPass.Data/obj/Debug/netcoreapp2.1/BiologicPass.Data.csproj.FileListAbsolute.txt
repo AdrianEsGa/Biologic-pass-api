@@ -1,0 +1,12 @@
+C:\Datos\Proyectos\biologic-pass-api\BiologicPass.Api\BiologicPass.Data\bin\Debug\netcoreapp2.1\BiologicPass.Data.deps.json
+C:\Datos\Proyectos\biologic-pass-api\BiologicPass.Api\BiologicPass.Data\bin\Debug\netcoreapp2.1\BiologicPass.Data.dll
+C:\Datos\Proyectos\biologic-pass-api\BiologicPass.Api\BiologicPass.Data\bin\Debug\netcoreapp2.1\BiologicPass.Data.pdb
+C:\Datos\Proyectos\biologic-pass-api\BiologicPass.Api\BiologicPass.Data\bin\Debug\netcoreapp2.1\BiologicPass.Model.dll
+C:\Datos\Proyectos\biologic-pass-api\BiologicPass.Api\BiologicPass.Data\bin\Debug\netcoreapp2.1\BiologicPass.Model.pdb
+C:\Datos\Proyectos\biologic-pass-api\BiologicPass.Api\BiologicPass.Data\obj\Debug\netcoreapp2.1\BiologicPass.Data.csprojAssemblyReference.cache
+C:\Datos\Proyectos\biologic-pass-api\BiologicPass.Api\BiologicPass.Data\obj\Debug\netcoreapp2.1\BiologicPass.Data.csproj.CoreCompileInputs.cache
+C:\Datos\Proyectos\biologic-pass-api\BiologicPass.Api\BiologicPass.Data\obj\Debug\netcoreapp2.1\BiologicPass.Data.AssemblyInfoInputs.cache
+C:\Datos\Proyectos\biologic-pass-api\BiologicPass.Api\BiologicPass.Data\obj\Debug\netcoreapp2.1\BiologicPass.Data.AssemblyInfo.cs
+C:\Datos\Proyectos\biologic-pass-api\BiologicPass.Api\BiologicPass.Data\obj\Debug\netcoreapp2.1\BiologicPass.Data.csproj.CopyComplete
+C:\Datos\Proyectos\biologic-pass-api\BiologicPass.Api\BiologicPass.Data\obj\Debug\netcoreapp2.1\BiologicPass.Data.dll
+C:\Datos\Proyectos\biologic-pass-api\BiologicPass.Api\BiologicPass.Data\obj\Debug\netcoreapp2.1\BiologicPass.Data.pdb

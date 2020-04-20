@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiologicPass.Api", "BiologicPass.Api\BiologicPass.Api.csproj", "{0770F134-B3C0-42B1-B866-DD51E4DBF55B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiologicPass.Service", "BiologicPass.Service\BiologicPass.Service.csproj", "{27650E37-DAB4-4759-9A88-822529DED970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiologicPass.Model", "BiologicPass.Model\BiologicPass.Model.csproj", "{DB717F99-3CC4-4F8D-8B1A-44B6AF70AFFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiologicPass.Data", "BiologicPass.Data\BiologicPass.Data.csproj", "{C7EB99BD-0F65-41CC-884C-2D45F0173447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0770F134-B3C0-42B1-B866-DD51E4DBF55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0770F134-B3C0-42B1-B866-DD51E4DBF55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0770F134-B3C0-42B1-B866-DD51E4DBF55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0770F134-B3C0-42B1-B866-DD51E4DBF55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27650E37-DAB4-4759-9A88-822529DED970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27650E37-DAB4-4759-9A88-822529DED970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27650E37-DAB4-4759-9A88-822529DED970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27650E37-DAB4-4759-9A88-822529DED970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB717F99-3CC4-4F8D-8B1A-44B6AF70AFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB717F99-3CC4-4F8D-8B1A-44B6AF70AFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB717F99-3CC4-4F8D-8B1A-44B6AF70AFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB717F99-3CC4-4F8D-8B1A-44B6AF70AFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7EB99BD-0F65-41CC-884C-2D45F0173447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EB99BD-0F65-41CC-884C-2D45F0173447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7EB99BD-0F65-41CC-884C-2D45F0173447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7EB99BD-0F65-41CC-884C-2D45F0173447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C1DE855-CACC-473C-A8C8-8DA6B945BD1C}
+	EndGlobalSection
+EndGlobal
